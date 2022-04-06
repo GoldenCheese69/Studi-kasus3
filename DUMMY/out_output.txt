@@ -1,15 +1,7 @@
-=========================
-    Warung Makan X     
-=========================
-
-RINCIAN PEMBAYARAN:      
-Menu             = A
-Jumlah           = 5
-                 ------------ x
-Biaya            = 85000
-Diskon           = 8500
-                 ------------ -
-Grand Total      = 76500
-Bayar            = 80000
-                 --------------
-Uang Kembalian   = 3500
+A
+5
+85000
+8500
+76500
+80000
+3500
